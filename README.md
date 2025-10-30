@@ -75,30 +75,3 @@ Hasil pengurangan 6 - 4 adalah 2
 Hasil pembagian 6 / 4 adalah 1.5
 Hasil modulus 6 / 4 adalah 2
 ```
-
----
-
-## 🧮 Struktur Folder
-
-```
-📂 Pengenalan-Java
-├── 📁 src
-│   ├── PertukaranVariabel.java
-│   ├── KonversiMataUang.java
-│   ├── Lingkaran.java
-│   └── OperasiAritmatika.java
-├── 📄 README.md
-└── 📄 .gitignore
-```
-
----
-
-## 📚 Referensi
-
-* Cormen, T. H., et al. *Introduction to Algorithms*, MIT Press, 2009.
-* Sedgewick, R. *Algorithms in Java*, Pearson, 2002.
-* Deitel, P. & Deitel, H. *Java How To Program*, Prentice Hall, 2011.
-* Poo, D., Kiong, D., & Ashok, S. *Object-Oriented Programming and Java*, Springer, 2010.
-* Wu, C. T. *An Introduction to Object-Oriented Programming with Java*, McGraw-Hill, 2009.
-
----
