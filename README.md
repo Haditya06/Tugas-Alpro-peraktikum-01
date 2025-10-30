@@ -102,14 +102,3 @@ Hasil modulus 6 / 4 adalah 2
 * Wu, C. T. *An Introduction to Object-Oriented Programming with Java*, McGraw-Hill, 2009.
 
 ---
-
-## 🏁 Penilaian
-
-* **Jurnal Terbimbing:** 70%
-* **Tugas Akhir:** 30%
-
----
-
-## 📥 Pengumpulan
-
-Kumpulkan semua hasil jurnal dan tugas akhir melalui **LMS Universitas Telkom Surabaya** sesuai jadwal yang ditentukan.
