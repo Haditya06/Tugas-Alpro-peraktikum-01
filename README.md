@@ -1,22 +1,115 @@
 # Tugas-Alpro-peraktikum-01
 
-# 📘 Algoritma dan Programan Komputer
+# 📘 Pengenalan Java
 
-## Bab I - Tipe data
-
-Dari matkul **Algoritma Perulangan** di **Prodi Rekayasa Perangkat Lunak, Telkom Universitas Surabaya**. Pada Bab pertama kita membahasas tentang Tipe data yaitu cara proses atau mengeluarkan out dari string, char, integer. tpe data adalah pondasi paling awal dalam pemrograman yang sangat penting dalam menentukan sebuah variabl code.
-
----
-
-## 🎯 Tujuan Pembelajaran
-
-1.Menggunakan berbagai jenis Tipe data (`string`, `int`, `Boleean`, `Float`).
-2.Mampu mengerluarkan output sesuai dengan tipe data yang di gunakan.
+Repositori ini berisi latihan dan tugas dari mata kuliah **Algoritma Pemrograman** — *Universitas Telkom Surabaya, 2025*.
+Fokus utama dari kajian ini adalah pengenalan dasar bahasa pemrograman **Java**, instalasi lingkungan pengembangan, serta pembuatan program sederhana.
 
 ---
 
-## 🧠 Materi dan Tugas
+## 🧩 Kompetensi Utama
 
-### 🧩 **Jurnal Terbimbing**
+* Mampu melakukan instalasi Java (JDK & IDE seperti IntelliJ / VS Code / NetBeans).
+* Mampu membuat dan menjalankan program Java sederhana.
+* Memahami konsep dasar input/output (I/O) di Java.
 
-#### 1.
+---
+
+## 🧠 Materi Kajian
+
+* Instalasi Java Development Kit (JDK)
+* Struktur dasar program Java
+* Input dan Output menggunakan `Scanner`
+* Operasi aritmatika dasar
+* Pengenalan variabel dan tipe data
+
+---
+
+## 🧪 Jurnal Terbimbing
+
+### 1. Program Pertukaran Variabel
+
+**Deskripsi:** Membuat program untuk menukar dua variabel.
+**Input:** `variableA`, `variableB`
+**Output:**
+
+* Nilai awal sebelum pertukaran
+* Nilai setelah pertukaran
+
+### 2. Program Konversi Mata Uang
+
+**Deskripsi:** Mengonversi nilai Rupiah ke beberapa mata uang lain.
+**Input:** Jumlah Rupiah
+**Output:**
+
+* Nilai dalam Dollar Singapura
+* Nilai dalam Dollar Amerika
+* Nilai dalam Yen
+* Nilai dalam Euro
+
+> Harga acuan kurs dapat ditentukan secara bebas.
+
+### 3. Program Menghitung Keliling & Luas Lingkaran
+
+**Deskripsi:** Menghitung keliling dan luas berdasarkan jari-jari lingkaran.
+**Input:** Panjang jari-jari
+**Output:**
+
+* Keliling lingkaran
+* Luas lingkaran
+
+---
+
+## 🧾 Tugas Akhir (Test Akhir)
+
+### Program Operasi Aritmatika
+
+**Deskripsi:** Membuat aplikasi sederhana untuk melakukan berbagai operasi aritmatika antara dua bilangan.
+**Input:** `bilangan1`, `bilangan2`
+**Output:**
+
+```
+Hasil penjumlahan 6 + 4 adalah 10
+Hasil perkalian 6 * 4 adalah 24
+Hasil pengurangan 6 - 4 adalah 2
+Hasil pembagian 6 / 4 adalah 1.5
+Hasil modulus 6 / 4 adalah 2
+```
+
+---
+
+## 🧮 Struktur Folder
+
+```
+📂 Pengenalan-Java
+├── 📁 src
+│   ├── PertukaranVariabel.java
+│   ├── KonversiMataUang.java
+│   ├── Lingkaran.java
+│   └── OperasiAritmatika.java
+├── 📄 README.md
+└── 📄 .gitignore
+```
+
+---
+
+## 📚 Referensi
+
+* Cormen, T. H., et al. *Introduction to Algorithms*, MIT Press, 2009.
+* Sedgewick, R. *Algorithms in Java*, Pearson, 2002.
+* Deitel, P. & Deitel, H. *Java How To Program*, Prentice Hall, 2011.
+* Poo, D., Kiong, D., & Ashok, S. *Object-Oriented Programming and Java*, Springer, 2010.
+* Wu, C. T. *An Introduction to Object-Oriented Programming with Java*, McGraw-Hill, 2009.
+
+---
+
+## 🏁 Penilaian
+
+* **Jurnal Terbimbing:** 70%
+* **Tugas Akhir:** 30%
+
+---
+
+## 📥 Pengumpulan
+
+Kumpulkan semua hasil jurnal dan tugas akhir melalui **LMS Universitas Telkom Surabaya** sesuai jadwal yang ditentukan.
